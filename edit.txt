@@ -2,3 +2,5 @@ Hello 2018
 Feature 1 is completed
 Feature 1 is modified
 feature 2 completed
+
+stage 2
