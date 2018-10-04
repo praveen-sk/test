@@ -4,8 +4,4 @@ Feature 1 is modified
 feature 2 completed
 
 
-stage 2
-
-
 New Stash study
-
